@@ -1,6 +1,6 @@
 
-# AI School - Goorm 1회차
-* AI 인공지능 기본
+# AI School
+* KICT 프로젝트반
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
@@ -15,14 +15,15 @@
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
 세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
-* 기간 : 2022.04.22(금) ~ 2022.05.06(금) <br>
-  * STEP 01. 팀별 주제 선정 <br>
-  * STEP 02. 데이터 수집 및 처리/시각화, 간단한 분석<br>
-  * STEP 03. 2022.05.05(목) 22:00 최종 결과물 제출<br>
-  * STEP 04. 프로젝트 발표<br>
+* 기간 : 2022.07.13(수) ~ 2022.07.27(수) <br>
+  * STEP 01. 팀명 정하기/팀 역할 나누기 <br>
+  * STEP 02. 데이터 수집 및 처리/시각화/기본 모델 만들기<br>
+  * STEP 03. 모델 개선/성능 개선 및 새로운 지식 익히기<br>
+  * STEP 04. 2022.07.26(화) 22:00 최종 결과물 제출<br>
+  * STEP 05. 프로젝트 결과 팀발표 07.27 <br>
   
 * 팀별 최종 발표   <br>
-  * 2022.05.06(금) 21:00~23:00 (5-10분)
+  * 2022.07.27(금) 09:00~13:00 (각 팀별 발표 시간 10분 내외)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -64,69 +65,69 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:빌드업(bulid up)<br/>(팀장:최유림)<br/> 
+        <div align="center"> 팀명:------<br/>(팀장:이정우)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">최유림<br/>박경빈(부팀장), 방울, 한설아</div>
+            <div align="left">이정우<br/>고준희, 정주희, 최가은, 한인혁</div>
         </td>
 		<td>
-			<div align="left"> 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
+			<div align="left"> ---- 관련 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">
-				<img src='images/01_pic.png' width=200 height=100  alt="빌드업"></a>    
+				<img src='images/01_pic.png' width=200 height=100  alt="---"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:올레디(All Ready)<br/>(팀장:전호담)<br/> 
+        <div align="center"> 팀명:------<br/>(팀장:최연우)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">전호담<br/>정종윤(부팀장), 이진석, 최혜령</div>
+            <div align="left">최연우<br/>김태경, 장윤서, 심연수</div>
         </td>
 		<td>
-			<div align="left"> 매수 심리와 관련된 매매 추세 등 부동산 관련 주제 </div></td>
+			<div align="left"> ---- 관련 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">
-				<img src='images/02_image.jpg' width=200 height=100  alt="올레디"></a>    
+				<img src='images/02_image.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:열정 3조<br/>(팀장:강진오)<br/> 
+        <div align="center"> 팀명: --- <br/>(팀장:김찬별)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">강진오<br/> 김미현 </div>
+            <div align="left">김찬별<br/> 박윤수, 이주행, 조기쁨, 최찬혁 </div>
         </td>
 		<td>
-			<div align="left"> 청와대 국민청원 아카이브 </div></td>
+			<div align="left"> --- 관련 주제 </div></td>
 		<td>
             <div align="center"><a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_C_last.pdf">
-				<img src='images/03_LikeLion.png' width=200 height=100 alt="열정 3조"></a>    
+				<img src='images/03_LikeLion.png' width=200 height=100 alt="---"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:파사모 <br/>(팀장:민전기)<br/> 
+        <div align="center"> 팀명: --- <br/>(팀장:박 종민)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">민전기<br/> 최윤서, 송인영 </div>
+            <div align="left">박 종민<br/> 박규리, 백진선, 손희경, 윤형석 </div>
         </td>
 		<td>
-			<div align="left"  > 폐기물 발생량으로 알아본 파이썬 </div></td>
+			<div align="left"  > -- 관련 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">
-				<img src='images/04_image.png' width=200 height=100 alt="파사모"></a>    
+				<img src='images/04_image.png' width=200 height=100 alt="---"></a>    
             </div>
         </td>
 	</tr>
@@ -150,12 +151,12 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 	<table border=1 width=100%>
 		<tr>
 			<td width="25%"><div align="center"><b>Project Team</b></div></td>
-			<td width="75%"><div align="left"> Buildup(빌드업) </div>
+			<td width="75%"><div align="left"> --- </div>
 			</td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Team Members</b></div></td>
-			<td><div align="left" > 최유림, 박경빈, 방울, 한설아 </div></td>
+			<td><div align="left" > 이정우, 고준희, 정주희, 최가은, 한인혁 </div></td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Report</b></div></td>
@@ -167,7 +168,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		</tr>
 		<tr>
 			<td><div align="center"><b>Subject</b></div></td>
-			<td><div align="left" > 인기있는 요리 레시피에 주로 사용되는 재료 </div></td>
+			<td><div align="left" > 인-- 주제 재료 </div></td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Presentation</b></div></td>
@@ -189,12 +190,12 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <div align="left" width=100%>
 <table border=1 width=100%>
 	<tr>
-		<td width="25%"><div align="center"><b>All Ready(올레디)</b></div></td>
-		<td width="75%"><div align="left" > 전호담 </div></td>
+		<td width="25%"><div align="center"><b>팀명</b></div></td>
+		<td width="75%"><div align="left" > 최연우 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 정종윤, 이진석, 최혜령 </div></td>
+		<td><div align="left" > 김태경, 심연수, 장윤서 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -206,7 +207,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 매수 심리와 관련된 매매 추세 등 부동산 관련 주제 </div></td>
+		<td><div align="left" > --- 주제 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -230,11 +231,11 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 열정 3조 </div></td>
+		<td width="75%"><div align="left" > 팀명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 강진오, 김미현 </div></td>
+		<td><div align="left" > 김찬별, 박윤수, 이주행, 조기쁨, 최찬혁 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -246,7 +247,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 청와대 국민청원 아카이브 </div></td>
+		<td><div align="left" > 주제 아카이브 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -269,11 +270,11 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 파사모 </div></td>
+		<td width="75%"><div align="left" > 팀명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 민전기, 최윤서, 송인영 </div></td>
+		<td><div align="left" > 박종민, 박규리, 백진선, 손희경, 윤형석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -285,7 +286,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 폐기물 발생량으로 알아본 파이썬 </div></td>
+		<td><div align="left" > 주제 내용 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
