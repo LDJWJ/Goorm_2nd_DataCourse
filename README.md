@@ -1,7 +1,7 @@
 # Goorm_2st_DataCourse
  
 ### 전체 과정 확인 WEB PAGE
-Web : https://ldjwj.github.io/Goorm_2st_DataCourse/
+Web : https://ldjwj.github.io/Goorm_2nd_DataCourse/
 
 
 ### 인공지능 프로젝트
