@@ -65,12 +65,12 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:------<br/>(팀장:이정우)<br/> 
+        <div align="center"> 팀명: 자비스 <br/>(팀장:이정우)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이정우<br/>고준희, 정주희, 최가은, 한인혁</div>
+            <div align="left">이정우<br/>한인혁(부팀장), 고준희, 정주희, 최가은</div>
         </td>
 		<td>
 			<div align="left"> ---- 관련 주제 </div></td>
@@ -82,29 +82,30 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:------<br/>(팀장:최연우)<br/> 
+        <div align="center"> 팀명:판다스<br/>(팀장:최연우)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">최연우<br/>김태경, 장윤서, 심연수</div>
+            <div align="left">최연우<br/>심연수(부팀장), 김태경, 장윤서</div>
         </td>
 		<td>
 			<div align="left"> ---- 관련 주제 </div></td>
 		<td>
-            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">
+            <div align="center"> 
+			<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">
 				<img src='images/02_image.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: --- <br/>(팀장:김찬별)<br/> 
+        <div align="center"> 팀명: AI_C <br/>(팀장:김찬별)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김찬별<br/> 박윤수, 이주행, 조기쁨, 최찬혁 </div>
+            <div align="left">김찬별<br/> 박윤수(부팀장), 이주행, 조기쁨, 최찬혁 </div>
         </td>
 		<td>
 			<div align="left"> --- 관련 주제 </div></td>
@@ -116,15 +117,15 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: --- <br/>(팀장:박 종민)<br/> 
+        <div align="center"> 팀명: 구름다리 <br/>(팀장:박 종민)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">박 종민<br/> 박규리, 백진선, 손희경, 윤형석 </div>
+            <div align="left">박 종민<br/> 손희경(부팀장), 박규리, 백진선, 윤형석 </div>
         </td>
 		<td>
-			<div align="left"  > -- 관련 주제 </div></td>
+			<div align="left"> -- 관련 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">
 				<img src='images/04_image.png' width=200 height=100 alt="---"></a>    
@@ -151,7 +152,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 	<table border=1 width=100%>
 		<tr>
 			<td width="25%"><div align="center"><b>Project Team</b></div></td>
-			<td width="75%"><div align="left"> --- </div>
+			<td width="75%"><div align="left"> 자비스 </div>
 			</td>
 		</tr>
 		<tr>
@@ -162,13 +163,14 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td><div align="center"><b>Report</b></div></td>
 			<td>
 				<div align="left" > 
-					<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">[A팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+					<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">[A팀 결과보고]</a> &nbsp;&nbsp;&nbsp;
+					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 				</div>
 			</td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Subject</b></div></td>
-			<td><div align="left" > 인-- 주제 재료 </div></td>
+			<td><div align="left" > -- 주제 재료 </div></td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Presentation</b></div></td>
@@ -191,17 +193,18 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>팀명</b></div></td>
-		<td width="75%"><div align="left" > 최연우 </div></td>
+		<td width="75%"><div align="left" > 판다스 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김태경, 심연수, 장윤서 </div></td>
+		<td><div align="left" > 최연우, 김태경, 심연수, 장윤서 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
 				<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">[B팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
@@ -231,7 +234,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 팀명 </div></td>
+		<td width="75%"><div align="left" > AI_C </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -242,6 +245,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" > 
 				<a href="./last_reports/team_C_last.pdf">[C팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
@@ -270,7 +274,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 팀명 </div></td>
+		<td width="75%"><div align="left" > 구름다리 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -281,6 +285,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" > 
 				<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">[D팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
 	</tr>
