@@ -94,7 +94,7 @@
 		<td>
             <div align="center"> 
 			<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">
-				<img src='images/02_image.jpg' width=200 height=100  alt="---"></a>    
+				<img src='images/pandas.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
 	</tr>
@@ -217,7 +217,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" >
 				<a href="./last_reports/team_B_AllReady_last.pdf">
-					<img src="images/02_image.jpg" width="90%">
+					<img src="images/pandas.jpg" width="90%">
 				</a>
 			</div>
 		</td>
