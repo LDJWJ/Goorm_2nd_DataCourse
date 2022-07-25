@@ -76,7 +76,7 @@
 			<div align="left"> ---- 관련 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">
-				<img src='images/01_pic.png' width=200 height=100  alt="---"></a>    
+				<img src='images/javis.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
 	</tr>
@@ -111,7 +111,7 @@
 			<div align="left"> --- 관련 주제 </div></td>
 		<td>
             <div align="center"><a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_C_last.pdf">
-				<img src='images/03_LikeLion.png' width=200 height=100 alt="---"></a>    
+				<img src='images/AI_C.png' width=200 height=100 alt="---"></a>    
             </div>
         </td>
 	</tr>
@@ -128,7 +128,7 @@
 			<div align="left"> -- 관련 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">
-				<img src='images/04_image.png' width=200 height=100 alt="---"></a>    
+				<img src='images/goormBridge.png' width=200 height=100 alt="---"></a>    
             </div>
         </td>
 	</tr>
@@ -177,7 +177,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td>
 				<div align="left" >
 				<a href="./last_reports/team_A_BuildUp_last.pdf">
-					<img src="images/01_pic.png" width="90%">
+					<img src="images/javis.jpg" width="90%">
 				</a>
 				</div>
 			</td>
@@ -258,7 +258,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" >
 				<a href="./last_reports/team_C_last.pdf">
-					<img src="images/03_LikeLion.png" width="90%">
+					<img src="images/AI_C.png" width="90%">
 				</a>
 			</div>
 		</td>
@@ -298,7 +298,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" >
 				<a href="./last_reports/team_D_last.pdf">
-					<img src="images/04_image.png" width="90%">
+					<img src="images/goormBridge.png" width="90%">
 				</a>
 			</div>
 		</td>
