@@ -73,9 +73,9 @@
             <div align="left">이정우<br/>한인혁(부팀장), 고준희, 정주희, 최가은</div>
         </td>
 		<td>
-			<div align="left"> ---- 관련 주제 </div></td>
+			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
 		<td>
-            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">
+            <div align="center"> <a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
 				<img src='images/javis.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
@@ -90,10 +90,10 @@
             <div align="left">최연우<br/>심연수(부팀장), 김태경, 장윤서</div>
         </td>
 		<td>
-			<div align="left"> ---- 관련 주제 </div></td>
+			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
 		<td>
             <div align="center"> 
-			<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">
+			<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">
 				<img src='images/pandas.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
@@ -108,9 +108,9 @@
             <div align="left">김찬별<br/> 박윤수(부팀장), 이주행, 조기쁨, 최찬혁 </div>
         </td>
 		<td>
-			<div align="left"> --- 관련 주제 </div></td>
+			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
 		<td>
-            <div align="center"><a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_C_last.pdf">
+            <div align="center"><a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_AI_C_last.pdf">
 				<img src='images/AI_C.png' width=200 height=100 alt="---"></a>    
             </div>
         </td>
@@ -125,9 +125,9 @@
             <div align="left">박 종민<br/> 손희경(부팀장), 박규리, 백진선, 윤형석 </div>
         </td>
 		<td>
-			<div align="left"> -- 관련 주제 </div></td>
+			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
 		<td>
-            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">
+            <div align="center"> <a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">
 				<img src='images/goormBridge.png' width=200 height=100 alt="---"></a>    
             </div>
         </td>
@@ -163,20 +163,20 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td><div align="center"><b>Report</b></div></td>
 			<td>
 				<div align="left" > 
-					<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_A_BuildUp_last.pdf">[A팀 결과보고]</a> &nbsp;&nbsp;&nbsp;
+					<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">[자비스팀 결과보고]</a> &nbsp;&nbsp;&nbsp;
 					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 				</div>
 			</td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Subject</b></div></td>
-			<td><div align="left" > -- 주제 재료 </div></td>
+			<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
 		</tr>
 		<tr>
 			<td><div align="center"><b>Presentation</b></div></td>
 			<td>
 				<div align="left" >
-				<a href="./last_reports/team_A_BuildUp_last.pdf">
+				<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
 					<img src="images/javis.jpg" width="90%">
 				</a>
 				</div>
@@ -203,20 +203,20 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_B_AllReady_last.pdf">[B팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">[판다스팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > --- 주제 </div></td>
+		<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="./last_reports/team_B_AllReady_last.pdf">
+				<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">
 					<img src="images/pandas.jpg" width="90%">
 				</a>
 			</div>
@@ -244,14 +244,14 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="./last_reports/team_C_last.pdf">[C팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_AI_C_last.pdf">[AI_C팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 주제 아카이브 </div></td>
+		<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -284,14 +284,14 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://ldjwj.github.io/Goorm_1st_DataCourse/01_TeamProject_First_DataStart/last_reports/team_D_last.pdf">[D팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="https://ldjwj.github.io/Goorm_2st_DataCourse/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">[ [구름다리팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 주제 내용 </div></td>
+		<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
