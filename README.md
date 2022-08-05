@@ -16,8 +16,8 @@ Web : https://ldjwj.github.io/Goorm_2nd_DataCourse/
  [이동](https://github.com/LDJWJ/Goorm_2st_DataCourse/tree/main/01_TeamProject_First_PaddyDoctor) 
 
 
-### 토이 실전 프로젝트 2- 나의 머신러닝 모델 & 데이터 분석
- * 대회 :
- * URL :
- * 내용 :
+### 실전 프로젝트 2- 대용량 데이터 분석(50G) - 캐글
+ * 대회 : American Express - Default Prediction
+ * URL :  https://www.kaggle.com/competitions/amex-default-prediction
+ * 내용 : 고객이 미래에 파산할 것인지 아닌지를 예측
  [이동](https://github.com/LDJWJ/Goorm_1st_DataCourse/tree/main/02_TeamProject_Second)
