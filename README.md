@@ -20,4 +20,4 @@ Web : https://ldjwj.github.io/Goorm_2nd_DataCourse/
  * 대회 : American Express - Default Prediction
  * URL :  https://www.kaggle.com/competitions/amex-default-prediction
  * 내용 : 고객이 미래에 파산할 것인지 아닌지를 예측
- [이동](https://github.com/LDJWJ/Goorm_1st_DataCourse/tree/main/02_TeamProject_Second)
+ [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse/tree/main/02_TeamProject_Second)
