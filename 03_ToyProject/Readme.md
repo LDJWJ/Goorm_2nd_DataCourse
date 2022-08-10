@@ -8,7 +8,7 @@
     </font>, [임동조](frontierlim13@gmail.com)</font></div>
 <hr>
 
-<h2><font color="#00CCCC"><b>파일럿 데이터 분석</b></font></h2>
+<h2><font color="#00CCCC"><b> 나의 첫번째 데이터 분석기 </b></font></h2>
 
 <img src="./images/just_start.jpg">
 
@@ -41,6 +41,8 @@
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
 		<td width="120">
+		<div align="center"><font color="#FFFFFF"><b>데이터 URL</b></font></div>
+		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
 	</tr>
@@ -54,11 +56,17 @@
             <div align="left">최찬혁<br/>최찬혁</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
-            <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
+            <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -72,11 +80,17 @@
             <div align="left">최연우<br/>최연우</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
-            <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
+            <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -90,11 +104,17 @@
             <div align="left">최가은<br/>최가은</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata"> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -108,11 +128,17 @@
             <div align="left">조기쁨<br/>조기쁨</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -126,11 +152,17 @@
             <div align="left">정주희<br/>정주희</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -144,11 +176,17 @@
             <div align="left">장윤서<br/>장윤서</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -162,11 +200,17 @@
             <div align="left">이주행<br/>이주행</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -180,11 +224,17 @@
             <div align="left">이정우<br/>이정우</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -198,11 +248,17 @@
             <div align="left">윤형석<br/>윤형석</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -216,11 +272,17 @@
             <div align="left">심연수<br/>심연수</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -234,11 +296,17 @@
             <div align="left">백진선<br/>백진선</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -252,11 +320,17 @@
             <div align="left">박종민<br/>박종민</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification"> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -270,11 +344,17 @@
             <div align="left">박윤수<br/>박윤수</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -288,11 +368,17 @@
             <div align="left">박규리<br/>박규리</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/yasserh/wine-quality-dataset"> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -306,11 +392,17 @@
             <div align="left">김태경<br/>김태경</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
@@ -324,11 +416,17 @@
             <div align="left">김찬별<br/>김찬별</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div></td>
+			<div align="left"> 주제 </div>
+		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            <a href=""> github or notion  </a>			
+            데이터로 <a href=""> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> <a href="">
+            나의 분석 발걸음 <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
