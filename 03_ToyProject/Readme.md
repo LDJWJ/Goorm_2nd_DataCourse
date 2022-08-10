@@ -40,7 +40,7 @@
 		<td width="300">
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
-		<td width="120">
+		<td width="150">
 		<div align="center"><font color="#FFFFFF"><b>데이터 URL</b></font></div>
 		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
