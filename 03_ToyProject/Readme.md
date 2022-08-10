@@ -54,12 +54,12 @@
             <div align="left"> 팀장 : 최찬혁</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> brain stroke 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -98,7 +98,7 @@
             <div align="left"> 팀장 : 최가은</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> airbnb 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
@@ -164,12 +164,12 @@
             <div align="left"> 팀장 : 장윤서</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 축구 선수 통계 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -340,7 +340,7 @@
             <div align="left"> 팀장 : 박규리</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 와인 품질 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
