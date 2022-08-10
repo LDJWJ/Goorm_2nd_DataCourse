@@ -53,7 +53,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">최찬혁<br/>최찬혁</div>
+            <div align="left">최찬혁</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -77,7 +77,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">최연우<br/>최연우</div>
+            <div align="left">최연우</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -101,7 +101,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">최가은<br/>최가은</div>
+            <div align="left">최가은</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -125,7 +125,7 @@
 		</div>
 		</td>
 		<td>
-            <div align="left">조기쁨<br/>조기쁨</div>
+            <div align="left">조기쁨</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
