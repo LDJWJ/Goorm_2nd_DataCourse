@@ -19,7 +19,7 @@
 
 ## <font color='#00AAAA'>Reference Documents</font>
 
-# 문서초안-세부 사항은 변경될 수 있음.
+### 문서초안-세부 사항은 변경될 수 있음.
 - Proj-01. [포트폴리오 자료      ][proj-01]
 - Proj-02. [프로젝트 결과보고서 포맷   ][proj-02]
 
@@ -46,70 +46,289 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 자비스 <br/>(팀장:이정우)<br/> 
+        <div align="center"> 팀명: __ <br/>(팀장:최찬혁)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이정우<br/>고준희, 정주희, 최가은</div>
+            <div align="left">최찬혁<br/>최찬혁</div>
         </td>
 		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
+			<div align="left"> 주제 </div></td>
 		<td>
             <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
-				<img src='images/javis.jpg' width=200 height=100  alt="---"></a>    
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:판다스<br/>(팀장:최연우)<br/> 
+        <div align="center"> 팀명: __ <br/>(팀장:최연우)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">최연우<br/>심연수(부팀장), 김태경, 장윤서</div>
+            <div align="left">최연우<br/>최연우</div>
         </td>
 		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
+			<div align="left"> 주제 </div></td>
 		<td>
-            <div align="center"> 
-			<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">
-				<img src='images/pandas.jpg' width=200 height=100  alt="---"></a>    
+            <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: AI_C <br/>(팀장:김찬별)<br/> 
+        <div align="center"> 팀명: __ <br/>(팀장:최가은)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">김찬별<br/> 박윤수(부팀장), 이주행, 조기쁨, 최찬혁 </div>
+            <div align="left">최가은<br/>최가은</div>
         </td>
 		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
+			<div align="left"> 주제 </div></td>
 		<td>
-            <div align="center"><a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_AI_C_last.pdf">
-				<img src='images/AI_C.png' width=200 height=100 alt="---"></a>    
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 구름다리 <br/>(팀장:박 종민)<br/> 
+        <div align="center"> 팀명: __ <br/>(팀장:조기쁨)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">박 종민<br/> 손희경(부팀장), 박규리, 백진선, 윤형석 </div>
+            <div align="left">조기쁨<br/>조기쁨</div>
         </td>
 		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
+			<div align="left"> 주제 </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">
-				<img src='images/goormBridge.png' width=200 height=100 alt="---"></a>    
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:정주희)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">정주희<br/>정주희</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:장윤서)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">장윤서<br/>장윤서</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:이주행)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">이주행<br/>이주행</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:이정우)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">이정우<br/>이정우</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:윤형석)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">윤형석<br/>윤형석</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:심연수)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">심연수<br/>심연수</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:백진선)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">백진선<br/>백진선</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:박종민)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">박종민<br/>박종민</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:박윤수)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">박윤수<br/>박윤수</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:박규리)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">박규리<br/>박규리</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:김태경)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">김태경<br/>김태경</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ <br/>(팀장:김찬별)<br/> 
+            <b></b>
+		</div>
+		</td>
+		<td>
+            <div align="left">김찬별<br/>김찬별</div>
+        </td>
+		<td>
+			<div align="left"> 주제 </div></td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            <a href=""> github or notion  </a>			
             </div>
         </td>
 	</tr>
