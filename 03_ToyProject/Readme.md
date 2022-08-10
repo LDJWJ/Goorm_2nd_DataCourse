@@ -48,12 +48,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:최찬혁)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">최찬혁</div>
+            <div align="left"> 팀장 : 최찬혁</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -72,12 +70,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:최연우)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">최연우</div>
+            <div align="left"> 팀장 : 최연우</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -96,12 +92,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:최가은)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">최가은</div>
+            <div align="left"> 팀장 : 최가은</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -120,12 +114,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:조기쁨)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">조기쁨</div>
+            <div align="left"> 팀장 : 조기쁨</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -144,12 +136,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:정주희)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">정주희<br/>정주희</div>
+            <div align="left"> 팀장 : 정주희</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -168,12 +158,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:장윤서)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">장윤서<br/>장윤서</div>
+            <div align="left"> 팀장 : 장윤서</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -192,12 +180,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:이주행)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">이주행<br/>이주행</div>
+            <div align="left"> 팀장 : 이주행</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -216,12 +202,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:이정우)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">이정우<br/>이정우</div>
+            <div align="left"> 팀장 : 이정우</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -240,12 +224,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:윤형석)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">윤형석<br/>윤형석</div>
+            <div align="left"> 팀장 : 윤형석</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -264,12 +246,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:심연수)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">심연수<br/>심연수</div>
+            <div align="left"> 팀장 : 심연수</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -288,12 +268,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:백진선)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">백진선<br/>백진선</div>
+            <div align="left"> 팀장 : 백진선</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -312,12 +290,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:박종민)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">박종민<br/>박종민</div>
+            <div align="left"> 팀장 : 박종민</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -336,12 +312,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:박윤수)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">박윤수<br/>박윤수</div>
+            <div align="left"> 팀장 : 박윤수</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -360,12 +334,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:박규리)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">박규리<br/>박규리</div>
+            <div align="left"> 팀장 : 박규리</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -384,12 +356,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:김태경)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">김태경<br/>김태경</div>
+            <div align="left"> 팀장 : 김태경</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
@@ -408,12 +378,10 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ <br/>(팀장:김찬별)<br/> 
-            <b></b>
-		</div>
+        <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
-            <div align="left">김찬별<br/>김찬별</div>
+            <div align="left"> 팀장 : 김찬별</div>
         </td>
 		<td>
 			<div align="left"> 주제 </div>
