@@ -62,10 +62,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/channy17"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -84,10 +83,9 @@
             데이터로 <a href="https://dacon.io/competitions/open/235536/data"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/yeonu9"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -106,10 +104,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/bestofGE"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -128,10 +125,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/jogibbeum"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -150,10 +146,9 @@
             데이터로 <a href="http://opendata.hira.or.kr/op/opc/olapMsupInfo.do"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/juheefatal"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -172,10 +167,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/jus9298"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -194,10 +188,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?select=healthcare-dataset-stroke-data.csv"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/porrima53"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -216,10 +209,9 @@
             데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/P-C-Space"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -238,10 +230,9 @@
             데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/vvilliscool"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -260,10 +251,9 @@
             데이터로 <a href="https://dacon.io/competitions/open/235610/overview/description"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/Sim-Yeonsoo"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -282,10 +272,9 @@
             데이터로 <a href="https://dacon.io/competitions/open/235576/data"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/gyoenge"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -304,10 +293,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/jin20000"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -326,10 +314,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/posky"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -348,10 +335,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/twinkle0705/mental-health-and-suicide-rates?select=Human+Resources.csv"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/KimchiDelicious/YunsuPark"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -370,10 +356,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/yasserh/wine-quality-dataset"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/LyonAri"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -392,10 +377,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/uciml/iris"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/ahbb11"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 	<tr>
@@ -414,10 +398,9 @@
             데이터로 <a href="https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?select=SaYoPillow.csv"> 이동 </a>			
             </div>
         </td>
-		<td>
-            <div align="center"> 
-			나의 분석 발걸음 <a href=""> github or notion  </a>			
-            </div>
+	<td>
+	    <div align="center"> github로  <a href="https://github.com/chanbyeol01"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
         </td>
 	</tr>
 </table>
