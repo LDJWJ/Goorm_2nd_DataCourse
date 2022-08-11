@@ -48,7 +48,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 01__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 최찬혁</div>
@@ -69,7 +69,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 02__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 최연우</div>
