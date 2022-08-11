@@ -76,12 +76,12 @@
             <div align="left"> 팀장 : 최연우</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 영화 관객수 예측 경진대회 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://dacon.io/competitions/open/235536/data"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -120,12 +120,12 @@
             <div align="left"> 팀장 : 조기쁨</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 알츠하이머 그리고 mri </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -142,12 +142,12 @@
             <div align="left"> 팀장 : 정주희</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 의약품 사용 통계 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="http://opendata.hira.or.kr/op/opc/olapMsupInfo.do"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -186,12 +186,12 @@
             <div align="left"> 팀장 : 이주행</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> stroke-prediction-dataset </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?select=healthcare-dataset-stroke-data.csv"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -208,12 +208,12 @@
             <div align="left"> 팀장 : 이정우</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 여행 상품 신청 여부 예측 경진대회 데이터 셋  </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -230,12 +230,12 @@
             <div align="left"> 팀장 : 윤형석</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 여행 상품 신청 여부 예측 경진대회 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -252,12 +252,12 @@
             <div align="left"> 팀장 : 심연수</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 와인품질 분류 경진대회 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://dacon.io/competitions/open/235610/overview/description"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -296,12 +296,12 @@
             <div align="left"> 팀장 : 백진선</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 차량 구입관련 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -318,7 +318,7 @@
             <div align="left"> 팀장 : 박종민</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 모바일 가격 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
@@ -340,12 +340,12 @@
             <div align="left"> 팀장 : 박윤수</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 정신건강과 자살률 데이터 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/twinkle0705/mental-health-and-suicide-rates?select=Human+Resources.csv"> 이동 </a>			
             </div>
         </td>
 		<td>
@@ -406,12 +406,12 @@
             <div align="left"> 팀장 : 김찬별</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> 수면과 수면 스트레스 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?select=SaYoPillow.csv"> 이동 </a>			
             </div>
         </td>
 		<td>
