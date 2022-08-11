@@ -90,7 +90,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 03__</b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 최가은</div>
@@ -111,7 +111,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 04__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 조기쁨</div>
@@ -132,7 +132,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 05__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 정주희</div>
@@ -153,7 +153,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 06__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 장윤서</div>
@@ -174,7 +174,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 07__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 이주행</div>
@@ -195,7 +195,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 08__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 이정우</div>
@@ -216,7 +216,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 09__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 윤형석</div>
@@ -237,7 +237,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 10__ </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 심연수</div>
@@ -258,7 +258,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 11  </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 손희경</div>
@@ -279,7 +279,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 12   </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 백진선</div>
@@ -300,7 +300,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 13  </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 박종민</div>
@@ -310,7 +310,7 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/13_park.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification"> 이동 </a>			
             </div>
         </td>
