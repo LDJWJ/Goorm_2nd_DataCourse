@@ -384,12 +384,12 @@
             <div align="left"> 팀장 : 김태경</div>
         </td>
 		<td>
-			<div align="left"> 주제 </div>
+			<div align="left"> IRIS 붓꽃 데이터 분류 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href=""> 이동 </a>			
+            데이터로 <a href="https://www.kaggle.com/datasets/uciml/iris"> 이동 </a>			
             </div>
         </td>
 		<td>
