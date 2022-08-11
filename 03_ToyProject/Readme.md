@@ -42,7 +42,7 @@
 		</td>
 		<td width="150">
 		<div align="center"><font color="#FFFFFF"><b>데이터 URL</b></font></div>
-		<td width="120">
+		<td width="200">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
 	</tr>
