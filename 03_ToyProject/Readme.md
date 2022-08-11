@@ -271,6 +271,28 @@
         <div align="center"> 팀명: __ </b> </div>
 		</td>
 		<td>
+            <div align="left"> 팀장 : 손희경</div>
+        </td>
+		<td>
+			<div align="left"> 서울시 따릉이 대여량 예측 </div>
+		</td>
+		<td>
+            <div align="center"> <a href="">
+			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+            데이터로 <a href="https://dacon.io/competitions/open/235576/data"> 이동 </a>			
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			나의 분석 발걸음 <a href=""> github or notion  </a>			
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 팀명: __ </b> </div>
+		</td>
+		<td>
             <div align="left"> 팀장 : 백진선</div>
         </td>
 		<td>
