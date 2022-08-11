@@ -79,7 +79,7 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/02_choi.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://dacon.io/competitions/open/235536/data"> 이동 </a>			
             </div>
         </td>
