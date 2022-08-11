@@ -117,12 +117,12 @@
             <div align="left"> 팀장 : 조기쁨</div>
         </td>
 		<td>
-			<div align="left"> 알츠하이머 그리고 mri </div>
+			<div align="left"> 수면 데이터 분석 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
 			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href="https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers"> 이동 </a>			
+            데이터로 <a href="[https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers](https://www.aihub.or.kr/dataprcuse/aiply/view.do?pageIndex=1&aiPlySn=9&currMenu=126&topMenu=102&searchCondition=&searchKeyword=)"> 이동 </a>			
             </div>
         </td>
 	<td>
