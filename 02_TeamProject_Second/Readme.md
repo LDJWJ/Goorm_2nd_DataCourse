@@ -52,7 +52,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 박윤수 <br/>(팀장:박윤수)<br/> 
+        <div align="center"> 팀명 : 타이타닉 <br/>(팀장:박윤수)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -75,7 +75,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:장윤서<br/>(팀장:장윤서)<br/> 
+        <div align="center"> 팀명: Random <br/>(팀장:장윤서)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -95,7 +95,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:정주희<br/>(팀장:정주희)<br/> 
+        <div align="center"> 팀명:Amazon <br/>(팀장:정주희)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -114,7 +114,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:박규리 <br/>(팀장:박규리)<br/> 
+        <div align="center"> 팀명:MST <br/>(팀장:박규리)<br/> 
             <b></b>
 		</div>
 		</td>
