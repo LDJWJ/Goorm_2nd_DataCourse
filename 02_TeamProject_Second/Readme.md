@@ -66,10 +66,9 @@
 			<img src="./images/titanic.png">
 		</td>
 		<td>
-            <div align="center"> <a href="">
-				code</a><br>
-		    <a href="https://www.kaggle.com/datasets/mayureshkoli/mcu-worldwide-box-office-collection">
-				데이터 출처</a>    
+            <div align="center"> 
+			  <a href=""> notion </a><br>
+		      <a href=""> 우리의 작품</a>    
             </div>
         </td>
 	</tr>
@@ -89,11 +88,9 @@
 			<img src="./images/titanic.png">
 		</td>
 		<td>
-            <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/02_ToyProject_Second/code_html/박경빈_ML_0520.html">
-				code</a> <br>
-		       <a href="https://www.kaggle.com/datasets/felsal/ibovespa-stocks">
-				데이터 출처</a>    
-            </div>   
+            <div align="center"> 
+			  <a href=""> notion </a><br>
+		      <a href=""> 우리의 작품</a>    
             </div>
         </td>
 	</tr>
@@ -110,13 +107,12 @@
 			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
 		</td>
 		<td>
-			<img src="./images/titanic.png">
+			<img src="./images/Amazon.jpg">
 		</td>
 		<td>
-            <div align="center"><a href="https://ldjwj.github.io/Goorm_1st_DataCourse/02_ToyProject_Second/code_html/전호담_ML_0520.html">
-				code</a> <br>
-		    <a href="데이터 출처 : https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease">
-				데이터 출처</a>     
+            <div align="center"> 
+			  <a href=""> notion </a><br>
+		      <a href=""> 우리의 작품</a>    
             </div>
         </td>
 	</tr>
@@ -136,10 +132,9 @@
 			<img src="./images/marvelous stars.jpg">
 		</td>
 		<td>
-            <div align="center"> <a href="">
-				code</a><br>
-		       <a href="">
-				데이터 출처</a>     
+            <div align="center"> 
+			  <a href=""> notion </a><br>
+		      <a href=""> 우리의 작품</a>    
             </div>
         </td>
 	</tr>
