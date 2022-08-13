@@ -34,7 +34,7 @@
 <div align="left">
 <table border=1 bgcolor="#EEEEEE">
 	<tr bgcolor="#CC0000">
-		<td width="100">
+		<td width="150">
 		<div align="center"><font color="#FFFFFF"><b>Name</b></font></div>
 		</td>
 		<td width="100">
