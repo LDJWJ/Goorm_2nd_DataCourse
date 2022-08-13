@@ -83,7 +83,11 @@
             <div align="left">장윤서, 김찬별, 심연수, 이주행, 최찬혁<br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div></td>
+			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+		</td>
+		<td>
+			<img src="./images/titanic.png">
+		</td>
 		<td>
             <div align="center"> <a href="https://ldjwj.github.io/Goorm_1st_DataCourse/02_ToyProject_Second/code_html/박경빈_ML_0520.html">
 				code</a> <br>
@@ -103,7 +107,11 @@
             <div align="left">정주희, 손희경, 윤형석, 조기쁨<br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div></td>
+			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+		</td>
+		<td>
+			<img src="./images/titanic.png">
+		</td>
 		<td>
             <div align="center"><a href="https://ldjwj.github.io/Goorm_1st_DataCourse/02_ToyProject_Second/code_html/전호담_ML_0520.html">
 				code</a> <br>
@@ -122,7 +130,11 @@
             <div align="left">박규리, 박종민, 백진선, 최가은<br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div></td>
+			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+		</td>
+		<td>
+			<img src="./images/marvelous stars.jpg">
+		</td>
 		<td>
             <div align="center"> <a href="">
 				code</a><br>
