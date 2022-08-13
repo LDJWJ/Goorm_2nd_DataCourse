@@ -44,6 +44,9 @@
 		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
 		</td>
 		<td width="120">
+		<div align="center"><font color="#FFFFFF"><b>Team Image</b></font></div>
+		</td>
+		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
 	</tr>
@@ -57,7 +60,11 @@
             <div align="left"> 박윤수, 김태경, 이정우, 최연우 <br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div></td>
+			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+		</td>
+		<td>
+			<img src="./images/titanic.png">
+		</td>
 		<td>
             <div align="center"> <a href="">
 				code</a><br>
