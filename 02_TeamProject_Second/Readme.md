@@ -26,7 +26,7 @@
 
 ##  <font color='#00AAAA'>Project</font>
 
-- <b>2st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
+- <b>2nd Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>작은 땀의 결실과 성공이 모여 큰 성공을 이룬다. </b></font>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
