@@ -85,7 +85,7 @@
 			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
 		</td>
 		<td>
-			<img src="./images/titanic.png">
+			<img src="./images/Random.png">
 		</td>
 		<td>
             <div align="center"> 
