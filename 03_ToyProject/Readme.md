@@ -321,7 +321,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 14 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 박윤수</div>
@@ -342,7 +342,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 15 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 박규리</div>
@@ -363,7 +363,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 16 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 김태경</div>
@@ -384,7 +384,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: __ </b> </div>
+        <div align="center"> 팀명: 17 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 김찬별</div>
