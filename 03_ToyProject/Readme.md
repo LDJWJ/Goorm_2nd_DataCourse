@@ -226,7 +226,7 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/09_data' width=200 height=100  alt="---"></a> 
+			<img src='images/09_data.PNG' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
@@ -261,7 +261,7 @@
         <div align="center"> 11. 서울시 따릉이 대여량 예측 </b> </div>
 		</td>
 		<td>
-            <div align="left"> 팀장 : 손희경</div>
+            <div align="left"> 팀장 : 손희경 </div>
         </td>
 		<td>
 			<div align="left"> 서울시 따릉이 대여량 예측 </div>
@@ -394,7 +394,7 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/17_sleepstress.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/laavanya/human-stress-detection-in-and-through-sleep?select=SaYoPillow.csv"> 이동 </a>			
             </div>
         </td>
