@@ -184,7 +184,7 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/07_stroke.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?select=healthcare-dataset-stroke-data.csv"> 이동 </a>			
             </div>
         </td>
