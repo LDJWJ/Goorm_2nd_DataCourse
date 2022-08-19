@@ -48,7 +48,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 01__ </b> </div>
+        <div align="center"> 01. brain stroke 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 최찬혁</div>
@@ -58,18 +58,18 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/01_brain_analysis.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/channy17"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/channy17/DataAnalysis_2022"> github </a>or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 02__ </b> </div>
+        <div align="center"> 02 영화 관객수 예측 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 최연우</div>
@@ -85,12 +85,12 @@
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/yeonu9"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/yeonu9/MyDataAnalysis_2022"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 03__</b> </div>
+        <div align="center"> 03 airbnb 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 최가은</div>
@@ -100,18 +100,18 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/03_airbnb_data.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/bestofGE"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://bestofge.github.io/MyDataAnalysis/"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 04__ </b> </div>
+        <div align="center"> 04. 수면 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 조기쁨</div>
@@ -121,39 +121,39 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
-            데이터로 <a href="[https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers](https://www.aihub.or.kr/dataprcuse/aiply/view.do?pageIndex=1&aiPlySn=9&currMenu=126&topMenu=102&searchCondition=&searchKeyword=)"> 이동 </a>			
+			<img src='images/04_sleep.jpg' width=200 height=100  alt="---"></a> 
+            데이터로 <a href="https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/jogibbeum"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github </a> or notion  </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 05__ </b> </div>
+        <div align="center"> 05. 의약품 사용 통계 분석 </b> </div>
 		</td>
 		<td>
-            <div align="left"> 팀장 : 정주희</div>
+            <div align="left"> 팀장 : 정주희 </div>
         </td>
 		<td>
-			<div align="left"> 의약품 사용 통계 </div>
+			<div align="left"> 의약품 사용 통계 분석 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/05_image.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="http://opendata.hira.or.kr/op/opc/olapMsupInfo.do"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/juheefatal"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/juheefatal/MyDataAnalysis"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 06__ </b> </div>
+        <div align="center"> 06. 축구 선수 통계 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 장윤서</div>
@@ -163,21 +163,21 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/06_Premier_League_Logo.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/omkargowda/football-players-stats-premier-league-20212022"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/jus9298"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/jus9298/football"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 07__ </b> </div>
+        <div align="center"> 07. stroke-prediction-dataset </b> </div>
 		</td>
 		<td>
-            <div align="left"> 팀장 : 이주행</div>
+            <div align="left"> 팀장 : 이주행 </div>
         </td>
 		<td>
 			<div align="left"> stroke-prediction-dataset </div>
@@ -190,12 +190,12 @@
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/porrima53"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/porrima53/my_data_analysis"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 08__ </b> </div>
+        <div align="center"> 08. 여행 상품 신청 여부 예측 경진대회 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 이정우</div>
@@ -205,18 +205,18 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/08_tour.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/P-C-Space"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/P-C-Space/MyDataAnalysis"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 09__ </b> </div>
+        <div align="center"> 09. 여행 상품 신청 여부 예측</b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 윤형석</div>
@@ -226,39 +226,39 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/09_data' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://dacon.io/competitions/official/235959/overview/description"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/vvilliscool"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github </a> or notion </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 10__ </b> </div>
+        <div align="center"> 10. 와인품질 분류 데이터 분석 </b> </div>
 		</td>
 		<td>
-            <div align="left"> 팀장 : 심연수</div>
+            <div align="left"> 팀장 : 심연수 </div>
         </td>
 		<td>
 			<div align="left"> 와인품질 분류 경진대회 데이터 셋 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/10_wine_pic.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://dacon.io/competitions/open/235610/overview/description"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/Sim-Yeonsoo"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/Sim-Yeonsoo/MyDataAnalysis"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 11  </b> </div>
+        <div align="center"> 11. 서울시 따릉이 대여량 예측 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 손희경</div>
@@ -268,18 +268,18 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/11_bycycle.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://dacon.io/competitions/open/235576/data"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/gyoenge"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/gyoenge/goorm_AIclass_2022summer/tree/main/SeoulbikeDemandPred"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 12   </b> </div>
+        <div align="center"> 12. 차량 관련 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 백진선</div>
@@ -289,18 +289,18 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/12_baek.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/jin20000"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/jin20000/MyDataAnalysis"> github   </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 13  </b> </div>
+        <div align="center"> 13. 모바일 제품 관련 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 박종민</div>
@@ -316,12 +316,12 @@
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/posky"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/posky/Data_Analysis"> github  </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 14 </b> </div>
+        <div align="center"> 14. 정신건강 및 자살률 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 박윤수</div>
@@ -331,18 +331,18 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/14_image_streee.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/twinkle0705/mental-health-and-suicide-rates?select=Human+Resources.csv"> 이동 </a>			
             </div>
         </td>
 	<td>
-	    <div align="center"> github로  <a href="https://github.com/KimchiDelicious/YunsuPark"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+	    <div align="center"> github로<a href="https://github.com/KimchiDelicious"> 이동  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/KimchiDelicious/MyDataAnalysis2022"> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 15 </b> </div>
+        <div align="center"> 15. 와인 품질 데이터 분석 </b> </div>
 		</td>
 		<td>
             <div align="left"> 팀장 : 박규리</div>
@@ -352,42 +352,42 @@
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/15_wine_data.png' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/yasserh/wine-quality-dataset"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/LyonAri"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/LyonAri/MyDataAnalysis"> github</a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 16 </b> </div>
+        <div align="center"> 16. 기본 붓꽃 데이터 분석 </b> </div>
 		</td>
 		<td>
-            <div align="left"> 팀장 : 김태경</div>
+            <div align="left"> 팀장 : 김태경 </div>
         </td>
 		<td>
 			<div align="left"> IRIS 붓꽃 데이터 분류 </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
-			<img src='images/javis.jpg' width=200 height=100  alt="---"></a> 
+			<img src='images/16_iris.jpg' width=200 height=100  alt="---"></a> 
             데이터로 <a href="https://www.kaggle.com/datasets/uciml/iris"> 이동 </a>			
             </div>
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/ahbb11"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href=""> github </a> or notion</div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 17 </b> </div>
+        <div align="center"> 17. 수면 스트레스 관련 데이터 분석 </b> </div>
 		</td>
 		<td>
-            <div align="left"> 팀장 : 김찬별</div>
+            <div align="left"> 팀장 : 김찬별 </div>
         </td>
 		<td>
 			<div align="left"> 수면과 수면 스트레스 데이터 셋 </div>
@@ -400,7 +400,7 @@
         </td>
 	<td>
 	    <div align="center"> github로  <a href="https://github.com/chanbyeol01"> 이동  </a></div>
-            <div align="center"> 나의 분석 발걸음 <a href=""> github or notion  </a></div>
+            <div align="center"> 나의 분석 발걸음 <a href="https://github.com/chanbyeol01/Project"> github</a> or notion</div>
         </td>
 	</tr>
 </table>
