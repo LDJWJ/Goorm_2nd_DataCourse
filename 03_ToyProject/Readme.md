@@ -34,7 +34,7 @@
 		<td width="100">
 		<div align="center"><font color="#FFFFFF"><b>Team Name</b></font></div>
 		</td>
-		<td width="100">
+		<td width="130">
 		<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
 		</td>
 		<td width="300">
