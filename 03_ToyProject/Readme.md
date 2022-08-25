@@ -390,7 +390,7 @@
             <div align="left"> 팀장 : 김찬별 </div>
         </td>
 		<td>
-			<div align="left"> 수면과 수면 스트레스 데이터 셋 </div>
+			<div align="left"> Human sleep - stress data analysis </div>
 		</td>
 		<td>
             <div align="center"> <a href="">
