@@ -177,7 +177,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 			<td>
 				<div align="left" >
 				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
-					<img src="images/javis.jpg" width="90%">
+					<img src="images/javis.jpg" width=500 height=300>
 				</a>
 				</div>
 			</td>
@@ -217,7 +217,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" >
 				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">
-					<img src="images/pandas.jpg" width="90%">
+					<img src="images/pandas.jpg" width=500 height=300>
 				</a>
 			</div>
 		</td>
@@ -258,7 +258,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" >
 				<a href="./last_reports/team_C_last.pdf">
-					<img src="images/AI_C.png" width="90%">
+					<img src="images/AI_C.png" width=500 height=300>
 				</a>
 			</div>
 		</td>
@@ -298,7 +298,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td>
 			<div align="left" >
 				<a href="./last_reports/team_D_last.pdf">
-					<img src="images/goormBridge.png" width="90%">
+					<img src="images/goormBridge.png" width=500 height=300>
 				</a>
 			</div>
 		</td>
