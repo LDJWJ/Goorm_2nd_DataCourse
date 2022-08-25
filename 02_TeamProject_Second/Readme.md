@@ -143,6 +143,6 @@
 </div>
 <hr>
 
-Goorm 인공지능 기본 과정 1기! 앞으로도 발걸음을 응원합니다!!!
+Goorm 프로젝트반~ 앞으로도 발걸음을 응원합니다!!!
 <hr>
 <div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
