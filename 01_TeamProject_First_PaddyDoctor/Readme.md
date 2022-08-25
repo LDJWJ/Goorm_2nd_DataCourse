@@ -284,7 +284,7 @@ Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">[ [구름다리팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
+				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">[구름다리팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
 				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>		
