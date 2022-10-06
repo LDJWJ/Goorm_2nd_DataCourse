@@ -67,8 +67,8 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> notion </a><br>
-		      <a href=""> 우리의 작품</a>    
+			  notion<br>
+		      우리의 작품    
             </div>
         </td>
 	</tr>
@@ -89,8 +89,8 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> notion </a><br>
-		      <a href=""> 우리의 작품</a>    
+			  notion<br>
+		      우리의 작품   
             </div>
         </td>
 	</tr>
@@ -112,7 +112,7 @@
 		<td>
             <div align="center"> 
 			  <a href=""> notion </a><br>
-		      <a href=""> 우리의 작품</a>    
+		      <a href="./reports/team_last_Amazon.pdf"> 우리의 작품</a>    
             </div>
         </td>
 	</tr>
@@ -134,7 +134,7 @@
 		<td>
             <div align="center"> 
 			  <a href=""> notion </a><br>
-		      <a href=""> 우리의 작품</a>    
+		      <a href="./reports/team_last_MST.pdf"> 우리의 작품</a>    
             </div>
         </td>
 	</tr>
