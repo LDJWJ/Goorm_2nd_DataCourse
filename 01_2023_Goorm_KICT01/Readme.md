@@ -8,13 +8,13 @@
     </font>, [임동조](frontierlim13@gmail.com)</font></div>
 <hr>
 
-<h2><font color="#00CCCC"><b>데이터 사이언티스트 실무자</b></font></h2>
+<h2><font color="#00CCCC"><b>ChatGPT 이용해 보기</b></font></h2>
 
 <img src="./images/just_start.jpg">
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-세미 프로젝트 진행(실전 데이터 분석 - 캐글 대회 참여 - Paddy Doctor)
+파일럿 프로젝트 진행(ChatGPT 활용한 [간단한] 프로그래밍 실습)
 * 기간 : 2022.07.13(수) ~ 2022.07.27(수) <br>
   * STEP 01. 팀명 정하기/팀 역할 나누기 <br>
   * STEP 02. 데이터 수집 및 처리/시각화/기본 모델 만들기<br>

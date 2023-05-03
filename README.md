@@ -1,25 +1,20 @@
-# Goorm_2nd_DataCourse
- 
+# ChatGPT MINI Project
+
+* 배우는 것은 다른 사람을 성장시키고 돕는다. 
+* 따라서 정보는 공유되어야 한다는 원칙하에 작은 우리들의 흔적을 남깁니다.
+
 ### 우리들의 프로젝트 WEB PAGE
  ⚡ Web : https://ldjwj.github.io/Goorm_2nd_DataCourse/
 
 
-### 인공지능 프로젝트 내용 및 기간
- * ⚡ 실전 데이터 분석반 - 프로젝트
- * 😄 기간 : 2022/07/04 ~ 2022/08/29
+### 팀 파일럿 프로젝트 (ChatGPT와 실전 프로그램 만들기)
+ * ⚡ 구름 2023년 구름 KICT 실전 데이터 분석반 - 프로젝트
+ * 😄 기간 : 2023/04/28 ~ 
+ * ⚡ 내용 : ChatGPT에 소개와 ChatGPT를 활용한 프로젝트를 수행해 본다.
+ [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse/tree/main/01_2023_Goorm_KICT01) 
 
 
-### 팀 프로젝트 1- 캐글 대회 참여
- * ⚡대회 : Paddy Doctor: Paddy Disease Classification
- * URL : https://www.kaggle.com/competitions/paddy-disease-classification/overview
- * 😄 내용 : 벼 잎 이미지에 존재하는 질병 유형 식별
- [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse/tree/main/01_TeamProject_First_PaddyDoctor) 
- 
-
-### 개인별 파일럿 프로젝트 2 - 개별 데이터 셋 선정 및 개인별 분석해 보기
- * 😄 내용 : 개인별 데이터 셋을 선정 후, 이를 분석 및 기본 모델 만들어보기
- [이동](https://github.com/LDJWJ/Goorm_2nd_DataCourse/tree/main/03_ToyProject) 
-
+(예제)
 
 ### 실전 프로젝트 2- 대용량 데이터 분석(50G) - 캐글
  * ⚡대회 : American Express - Default Prediction
